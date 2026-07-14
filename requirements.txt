@@ -1,0 +1,13 @@
+streamlit
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+xgboost==3.3.0
+lightgbm
+catboost
+joblib
+plotly
+reportlab
+google-generativeai
+shap
+matplotlib
